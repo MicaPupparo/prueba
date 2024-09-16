@@ -1,2 +1,3 @@
 # este repositorio es una prueba
-me llamo micaela
+me llamo mica
+y tengo 21
